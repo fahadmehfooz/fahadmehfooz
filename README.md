@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fahad Mehfooz</h1>
 <h3 align="center">Statistics may be dull, but it has its moments.</h3>
 
-- 🌱 I’m currently learning **pytorch, tensorflow and other deep learning.g frameworks.**
+- 🌱 I’m currently learning **pytorch, tensorflow and other deep learning frameworks.**
 
 - 💬 Ask me about **python, machine learning and deep learning.**
 
