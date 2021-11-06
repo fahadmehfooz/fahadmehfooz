@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Fahad Mehfooz</h1>
 <h3 align="center">Statistics may be dull, but it has its moments.</h3>
 
-- 🌱 Well versed with machine learning and deep learning algorithms.**
+- Well versed with machine learning and deep learning algorithms.
 
 - Currently, focussed on learning pytorch. 
 
 - I have also deployed some of my models on heroku, do check them out.
 
-- 📫 You can reach me out on: **fahad.mehfoooz@gmail.com**
+- You can reach me out on: **fahad.mehfoooz@gmail.com**
 
 - You can also find my work on Kaggle. 
 
