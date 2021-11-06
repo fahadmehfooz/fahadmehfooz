@@ -9,6 +9,8 @@
 
 - You can reach me out on: **fahad.mehfoooz@gmail.com**
 
+- Find my portfolio here: https://fahadmehfooz.github.io/Fahad_Portfolio/
+
 - You can also find my work on Kaggle. 
 
 <h3 align="left">Connect with me:</h3>
