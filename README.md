@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fahad Mehfooz</h1>
-<h3 align="center">Statistics may be dull, but it has its moments.</h3>
+<h1 align="center">Statistics may be dull, but it has its moments.</h1>
 
 - Well versed with machine learning and deep learning algorithms.
 
