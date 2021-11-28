@@ -14,6 +14,8 @@
 - You can also find my work on Kaggle. Do checkout my work here: https://www.kaggle.com/fahadmehfoooz/code?scroll=true
 
 - Current Kaggle rank - **75/197545**
+
+- I am open to collaboration. Ping me if there's something interesting we can work on.
  
 
 <h3 align="left">Connect with me:</h3>
