@@ -1,5 +1,6 @@
 <h1 align="center">Statistics may be dull, but it has its moments.</h1>
 
+
 - Well versed with machine learning and deep learning algorithms.
 
 - Currently, focussed on learning pytorch. 
@@ -10,7 +11,10 @@
 
 - Find my portfolio here: https://fahadmehfooz.github.io/Fahad_Portfolio/
 
-- You can also find my work on Kaggle. 
+- You can also find my work on Kaggle. Do checkout my work here: https://www.kaggle.com/fahadmehfoooz/code?scroll=true
+
+- Current Kaggle rank - 75/197545
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
