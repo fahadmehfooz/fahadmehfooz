@@ -7,6 +7,8 @@
 
 - I have also deployed some of my models on heroku, do check them out.
 
+- Kaggle Grandmaster.
+
 - You can reach me out on: **fahad.mehfoooz@gmail.com**
 
 - Find my portfolio here: https://fahadmehfooz.github.io/Fahad_Portfolio/
