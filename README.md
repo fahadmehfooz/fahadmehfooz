@@ -3,9 +3,6 @@
 
 - Well versed with machine learning and deep learning algorithms.
 
-- Currently, focussed on learning pytorch. 
-
-- I have also deployed some of my models on heroku, do check them out.
 
 - Kaggle Grandmaster.
 
@@ -15,7 +12,7 @@
 
 - You can also find my work on Kaggle. Do checkout my work here: https://www.kaggle.com/fahadmehfoooz/code?scroll=true
 
-- Current Kaggle rank - **75/197545**
+- Kaggle rank - **75/197545**
 
 - I am open to collaboration. Ping me if there's something interesting we can work on.
  
